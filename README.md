@@ -2,29 +2,29 @@
 
 ## Project setup 下载依赖包
 ```
-npm install
+yarn install
 ```
 ### Compiles and hot-reloads 启动服务
 ```
-npm run serve
+yarn dev
 ```
 ### Compiles and minifies 编译
 ```
-npm run build
+yarn build
 ```
 ### unit for unit 单元测试 TODO
 ```
-npm run unit
+yarn unit
 ```
 ### unit for unit 单元测试实时 TODO
 ```
-npm run unit:watch
+yarn unit:watch
 ```
 ### unit for unit 单元测试报告 TODO
 ```
-npm run verbose
+yarn verbose
 ```
 ### unit for unit 单元测试覆盖率文件生成 TODO
 ```
-npm run coverage
+yarn coverage
 ```
